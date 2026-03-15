@@ -10,12 +10,16 @@
 * 🧠 Passionate about **Product Development & Core Software Engineering**
 * ⚙️ Interested in **backend systems, APIs, and scalable architectures**
 * 🚀 I enjoy building **real-world products**
+  
+---
 
 ### 🛠 Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,react,spring,python,js,html,css,mysql,git,linux"/>
 </p>
+  
+---
 
 ### 📦 Projects
 
@@ -30,11 +34,14 @@ Spring Boot backend with product catalog, orders, reviews, filtering, and pagina
 Tech: Java • Spring Boot • Hibernate • MySQL • Swagger
 
 🔗 https://github.com/rakeshkumar04/cart-app
+  
+---
 
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshkumar-r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rakeshkumarr.official) 
-
+  
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
