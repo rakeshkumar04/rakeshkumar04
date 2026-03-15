@@ -1,11 +1,7 @@
-<h1 align="center">Rakesh Kumar</h1>
+<h1 align="center">Hi✋ I'm Rakesh Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Product+Builder;Java+%7C+React+Engineer;Backend+Systems+Enthusiast&center=true&width=380&height=45">
-</p>
-
-<p align="center">
-Building real-world products with clean architecture and scalable systems.
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Software+Developer;I'm+a+Product+Builder;I'm+a+Java+%7C+React+Engineer;I'm+a+Backend+Systems+Enthusiast&center=true&width=380&height=45">
 </p>
 
 ---
@@ -69,23 +65,16 @@ https://github.com/rakeshkumar04/cart-app
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rakeshkumar04&show_icons=true&theme=transparent"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkumar04&layout=compact&theme=transparent"/>
-
-</p>
-
----
-
 ## Connect
 
 <p>
 <a href="https://linkedin.com/in/rakeshkumar-r">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+<p>
+<a href="https://www.youtube.com/@rakeshkumarr.official">
+<img src="https://skillicons.dev/icons?i=youtube"/>
 </a>
 </p>
 
