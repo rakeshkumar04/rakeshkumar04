@@ -1,16 +1,18 @@
 <h1 align="center">Hi ✋ I'm Rakesh Kumar</h1>
+
 <p align="center">
-  I'm a 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Product+Developer;YouTuber;Backend+Developer;Tech+Enthusiast&center=true&width=260&height=30">
+I'm a <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=36BCF7&vCenter=true&width=260&lines=Product+Developer;YouTuber;Backend+Developer;Tech+Enthusiast" />
 </p>
 
 ### 👨‍💻 About Me
+
 * 🎓 Electronics & Communication Engineering Graduate
 * 🧠 Passionate about **Product Development & Core Software Engineering**
 * ⚙️ Interested in **backend systems, APIs, and scalable architectures**
 * 🚀 I enjoy building **real-world products**
 
 ### 🛠 Tech Stack
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,react,spring,python,js,html,css,mysql,git,linux"/>
 </p>
@@ -32,9 +34,13 @@ Tech: Java • Spring Boot • Hibernate • MySQL • Swagger
 ### 🌐 Connect
 
 <p>
-<a href="https://linkedin.com/in/rakeshkumar-r"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://www.youtube.com/@rakeshkumarr.official"><img src="https://skillicons.dev/icons?i=youtube"/></a>
+<a href="https://linkedin.com/in/rakeshkumar-r">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.youtube.com/@rakeshkumarr.official">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="48"/>
+</a>
 </p>
 
 <p align="center">⚡ Building products • Learning systems • Solving problems</p>
-
