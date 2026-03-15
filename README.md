@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✋ I'm Rakesh Kumar</h1>
 
 <p align="center">
-I'm a <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=36BCF7&vCenter=true&width=260&lines=Product+Developer;YouTuber;Backend+Developer;Tech+Enthusiast" />
+I'm a <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=36BCF7&vCenter=true&width=260&lines=I'm+a+Product+Developer;I'm+a+YouTuber;I'm+a+Backend+Developer;I'm+a+Tech+Enthusiast" />
 </p>
 
 ### 👨‍💻 About Me
@@ -33,14 +33,8 @@ Tech: Java • Spring Boot • Hibernate • MySQL • Swagger
 
 ### 🌐 Connect
 
-<p>
-<a href="https://linkedin.com/in/rakeshkumar-r">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshkumar-r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rakeshkumarr.official) 
 
-<a href="https://www.youtube.com/@rakeshkumarr.official">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="48"/>
-</a>
-</p>
 
-<p align="center">⚡ Building products • Learning systems • Solving problems</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
