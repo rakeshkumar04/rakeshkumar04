@@ -17,6 +17,7 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,react,spring,python,js,html,css,mysql,git,linux"/>
+<a href="https://github.com/rakeshkumar04"><img src="https://skillicons.dev/icons?i=java,javascript,linux,react,spring,mysql,mongodb,python,c,bash,dart,django,expressjs,figma,git,github,godot,html,hibernate,idea,maven,css,androidstudio,nextjs,nodejs,notion,npm,opencv,postman,powershell,pycharm,qt,scikitlearn,tailwindcss,tensorflow,typescript,vscode,vite&theme=dark&perline=15" alt="My Skills" /></a>
 </p>
   
 ---
