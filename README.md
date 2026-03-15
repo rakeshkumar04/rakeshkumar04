@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✋ I'm Rakesh Kumar</h1>
 
 <p align="center">
-I'm a <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=36BCF7&vCenter=true&width=260&lines=I'm+a+Product+Developer;I'm+a+YouTuber;I'm+a+Backend+Developer;I'm+a+Tech+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=36BCF7&vCenter=true&width=260&lines=I'm+a+Product+Developer;I'm+a+YouTuber;I'm+a+Backend+Developer;I'm+a+Tech+Enthusiast" />
 </p>
 
 ### 👨‍💻 About Me
